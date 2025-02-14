@@ -1,7 +1,7 @@
 ## .gitignore for node
 node_modules/
-.github
-.deploy_git
+.github/
+.deploy_git/
 public/
  
 # .gitignore for maven 
